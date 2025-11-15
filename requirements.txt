@@ -1,0 +1,18 @@
+# Core
+python-dotenv
+
+# LLM / Gemini
+google-generativeai
+
+# ADK - Agent Development Kit
+google-adk
+
+# HTTP / Tools
+requests
+
+# Data / Utilities
+pydantic
+pandas
+
+# UI
+streamlit

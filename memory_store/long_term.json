@@ -1,0 +1,208 @@
+{
+  "cli_session": [
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 238.5,
+      "by_category": {
+        "travel": 63.0,
+        "electricity": 91.5,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 238.5,
+      "by_category": {
+        "travel": 63.0,
+        "electricity": 91.5,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    }
+  ],
+  "ui_session": [
+    {
+      "total": 1313.88,
+      "by_category": {
+        "travel": 333.0,
+        "electricity": 980.88,
+        "food": 0.0
+      }
+    }
+  ],
+  "ui_session_1": [
+    {
+      "total": 1458.66,
+      "by_category": {
+        "travel": 273.0,
+        "electricity": 1101.66,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 1458.66,
+      "by_category": {
+        "travel": 273.0,
+        "electricity": 1101.66,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 238.5,
+      "by_category": {
+        "travel": 63.0,
+        "electricity": 91.5,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 1518.66,
+      "by_category": {
+        "travel": 333.0,
+        "electricity": 1101.66,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 238.5,
+      "by_category": {
+        "travel": 63.0,
+        "electricity": 91.5,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 1518.66,
+      "by_category": {
+        "travel": 333.0,
+        "electricity": 1101.66,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 238.5,
+      "by_category": {
+        "travel": 63.0,
+        "electricity": 91.5,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 219.89999999999998,
+      "by_category": {
+        "travel": 48.0,
+        "electricity": 115.89999999999999,
+        "food": 56.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 170.0,
+      "by_category": {
+        "travel": 48.0,
+        "electricity": 122.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 244.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 244.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 238.5,
+      "by_category": {
+        "travel": 63.0,
+        "electricity": 91.5,
+        "food": 84.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 244.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 244.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 0.0,
+      "by_category": {
+        "travel": 0.0,
+        "electricity": 0.0,
+        "food": 0.0
+      }
+    },
+    {
+      "total": 238.5,
+      "by_category": {
+        "travel": 63.0,
+        "electricity": 91.5,
+        "food": 84.0
+      }
+    }
+  ]
+}
